@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APPREVISAO</string>
+    <string name="textVal">Digite os valores:</string>
+    <string name="btnComparar">Comparar</string>
+</resources>
